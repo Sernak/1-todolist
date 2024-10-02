@@ -7,14 +7,15 @@ export const Header = () => {
     return (
         <StyledHeader>
             <Logo/>
-
             <Menu/>
         </StyledHeader>
     );
 };
 
-const StyledHeader=styled.header`
-background-color: aqua;
+const StyledHeader = styled.header`
+    background-color: aqua;
     display: flex;
+    justify-content: space-between;
     
+
 `
