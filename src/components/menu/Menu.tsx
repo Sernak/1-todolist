@@ -11,7 +11,7 @@ export const Menu = () => {
                     <a href={""}>Technologies</a>
                 </li>
                 <li>
-                    <a href={""}>About my</a>
+                    <a href={""}>About mt</a>
                 </li>
             </ul>
         </nav>
